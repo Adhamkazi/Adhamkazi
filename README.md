@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Adham Kazi</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhamkazi&label=Profile%20views&color=0e75b6&style=flat" alt="adhamkazi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhamkazi" alt="adhamkazi" /></a> </p>
 
@@ -15,13 +14,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BJHyYy6mkRy63G3Pg3eqiqA0PlHz6UKf/view](https://drive.google.com/file/d/1BJHyYy6mkRy63G3Pg3eqiqA0PlHz6UKf/view)
 
 - ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adhamkazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhamkazi" height="30" width="40" /></a>
-<a href="https://fb.com/adhamkazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adhamkazi" height="30" width="40" /></a>
-<a href="https://instagram.com/adhamkazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adhamkazi" height="30" width="40" /></a>
-</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adhamkazi) 
