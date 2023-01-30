@@ -3,8 +3,6 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhamkazi" alt="adhamkazi" /></a> </p>
-
 - 🌱 I’m currently learning **Frameworks and Database**
 
 - 👨‍💻 All of my projects are available at [https://adhamkazi.github.io/](https://adhamkazi.github.io/)
@@ -13,7 +11,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BJHyYy6mkRy63G3Pg3eqiqA0PlHz6UKf/view](https://drive.google.com/file/d/1BJHyYy6mkRy63G3Pg3eqiqA0PlHz6UKf/view)
 
-- ⚡ Fun fact **I am funny**
 
 
 ## 🌐 Socials:
@@ -27,7 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adhamkazi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adhamkazi&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=adhamkazi&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
