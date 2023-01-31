@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Adham Kazi</h1>
 <h3 align="center">A Full Stack Developer who loves building projects.I am equipped with a variety of technologies and tools to help me build the best possible product</h3>
 
-
-- 🌱 I’m currently learning **Frameworks and Database**
+  <h4>About me-: </h4> <p> Well-qualified Full Stack Developer familiar with a wide range of programming utilities and languages. Knowledgeable of frontend development requirements. Handles any part of the process with ease. Collaborative team player with excellent technical abilities</p>
+- 🌱 I’m currently learning **DSA and Database**
 
 - 👨‍💻 All of my projects are available at [https://adhamkazi.github.io/](https://adhamkazi.github.io/)
 
