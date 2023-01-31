@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Adham Kazi</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A Full Stack Developer who loves building projects.I am equipped with a variety of technologies and tools to help me build the best possible product</h3>
 
 
 - 🌱 I’m currently learning **Frameworks and Database**
