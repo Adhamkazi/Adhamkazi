@@ -1,15 +1,15 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Adham Kazi</h1>
-<h3 align="center">A Full Stack Developer who loves building projects.I am equipped with a variety of technologies and tools to help me build the best possible product</h3>
+<h3 align="center">Full Stack Developer with 2+ years of experience building scalable, responsive web and mobile apps using React.js, React Native, Next.js, Django, and PostgreSQL. Currently building EzDocs, a cross-platform React Native (Expo) app tested via Expo Go, with Google Drive API integration and OAuth authentication. Comfortable translating Figma designs into pixel-perfect, cross-browser, accessible interfaces, working with relational and NoSQL data stores, and writing unit/integration tests. Experienced with Docker, CI/CD, Git-based workflows, and cloud deployment on GCP, with working exposure to AWS. Collaborative team player comfortable across the full software development lifecycle.</h3>
 
-  <h4>About me-: </h4> <p> Well-qualified Full Stack Developer familiar with a wide range of programming utilities and languages. Knowledgeable of frontend development requirements. Handles any part of the process with ease. Collaborative team player with excellent technical abilities</p>
+ 
 - 🌱 I’m currently learning **DSA and Database**
 
 - 👨‍💻 All of my projects are available at [https://adhamkazi.github.io/](https://adhamkazi.github.io/)
 
 - 📫 How to reach me **kaziadham95@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BJHyYy6mkRy63G3Pg3eqiqA0PlHz6UKf/view](https://drive.google.com/file/d/1BJHyYy6mkRy63G3Pg3eqiqA0PlHz6UKf/view)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1DNp2USmC20ZltB82su5HOqH9Ul_kWsMj/edit?usp=sharing&ouid=114618824482429103329&rtpof=true&sd=true]([https://drive.google.com/file/d/1BJHyYy6mkRy63G3Pg3eqiqA0PlHz6UKf/view](https://docs.google.com/document/d/1DNp2USmC20ZltB82su5HOqH9Ul_kWsMj/edit?usp=sharing&ouid=114618824482429103329&rtpof=true&sd=true))
 
 
 
